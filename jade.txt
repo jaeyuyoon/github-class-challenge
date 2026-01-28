@@ -1,1 +1,2 @@
-hi this is jade and i'm from seoul.
+
+hello this is jade and i'm from seoul.
